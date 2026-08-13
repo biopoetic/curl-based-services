@@ -1,4 +1,4 @@
-# awesome-curl
+# curl-verified
 
 A curated, spot-checked list of useful services you can talk to with nothing but `curl` (or `nc`/`telnet`/`ssh` where noted) — no browser, no install, no signup.
 
@@ -51,8 +51,6 @@ Every HTTP(S) entry below was hit with a live `curl` request on 2026-08-13 befor
 * `telnet mapscii.me` — zoomable ASCII world map (telnet, not curl)
 
 ---
-
-Inspired by, and a smaller/verified companion to, [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services), which has a much larger (but unverified) collection including SSH- and gopher-based services.
 
 ## Contributing
 
