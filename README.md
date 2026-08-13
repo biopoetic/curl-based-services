@@ -1,4 +1,4 @@
-# curl-verified
+# curl-based-services
 
 A curated, spot-checked list of useful services you can talk to with nothing but `curl` (or `nc`/`telnet`/`ssh` where noted) — no browser, no install, no signup.
 
