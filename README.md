@@ -15,6 +15,7 @@ Every HTTP(S) entry below was hit with a live `curl` request on 2026-08-13 befor
 ## Money & Finance
 
 * `curl stockchat.sh/AAPL` — full stock research terminal over curl: price, fundamentals, chart, news, and a free-text question mode (e.g. `curl "stockchat.sh/AAPL?q=how's the balance sheet"`). No signup for basic lookups. ([stockchat.sh](https://stockchat.sh))
+* `curl degenesis.nicorn.xyz/vs` — two coins fight over their last 24 hours: health bars, each coin's 24 h change, and a K.O. once the gap passes 1.5 points. Pick a pair with `curl degenesis.nicorn.xyz/vs/btc/eth` (TON, BTC, ETH, SOL, DOGE, TRUMP); `?T` for no color; usage at `/vs/:help`. No signup; checked with a plain curl on 31 Oct 2026. ([degenesis.nicorn.xyz](https://degenesis.nicorn.xyz/vs))
 
 ## IP & Network
 
